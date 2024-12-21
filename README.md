@@ -1,4 +1,4 @@
-# Hello 👋🏻
+# <marquee behavior="scroll" direction="left">Hi there! 👋🏻</marquee>
 
 I'm Othman Katout, Welcome to my GitHub profile! 🚀
 
@@ -9,7 +9,7 @@ I'm Othman Katout, Welcome to my GitHub profile! 🚀
 - **GitHub**: [OthmanKatout](https://github.com/YourGitHubUsername)
 - **Codeforces**: [OthmanGK](https://codeforces.com/profile/YourCodeforcesUsername)
 - **LeetCode**: [Othman_DX](https://leetcode.com/YourLeetCodeUsername)
-- **Email**: [Othmanghaleb22331@gmail.com](mailto:youremail@example.com)
+- **Email**: [othmanghaleb22331@gmail.com](mailto:youremail@example.com)
 
 ---
 
