@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**OthmanKatout/OthmanKatout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Othman Katout], Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+
+- **GitHub**: [OthmanKatout](https://github.com/YourGitHubUsername)
+- **Codeforces**: [OthmanGK](https://codeforces.com/profile/YourCodeforcesUsername)
+- **LeetCode**: [Othman_DX](https://leetcode.com/YourLeetCodeUsername)
+- **Email**: [Othmanghaleb22331@gmail.com](mailto:youremail@example.com)
+
+---
+
+✨ *Feel free to explore my repositories and get in touch for any collaboration opportunities!* ✨
