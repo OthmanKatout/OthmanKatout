@@ -37,8 +37,3 @@
 	<img height=300 src="https://leetcode.card.workers.dev/Othman_DX?theme=Dark&font=baloo&extension=activity&border_color=#FFF" />
 </div>
 
-<hr/>
-
-<div align="center">
-	<img src="https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg">
-</div>
