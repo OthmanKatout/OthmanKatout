@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hello 👋🏻
 
-I'm [Othman Katout], Welcome to my GitHub profile! 🚀
+I'm Othman Katout, Welcome to my GitHub profile! 🚀
 
 ---
 
