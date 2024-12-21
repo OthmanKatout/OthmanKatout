@@ -29,6 +29,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <hr/>
+
 ### Problem Solving & Competitive Programming Statistics 📈
 <div align="center">
 	<img height=300 src="https://codeforces-readme-stats.vercel.app/api/card?username=OthmanGK&force_username=true&theme=dark&border_color=#FFF" />
